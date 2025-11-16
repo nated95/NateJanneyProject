@@ -11,7 +11,7 @@ IN PROGRESS
 ## Project Overview
 A custom smart fridge with a touch-screen display which will showcase daily overviews along with 
 live sports information with a swing-out screen
-haha
+
 
 ## Educational Value Added
 I will learn how to use a rasberry pi,
