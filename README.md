@@ -24,7 +24,11 @@ strengthen my python skills, create a full embedded system and combine different
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Design Block Diagrams + Descriptions
+Link for two diagrams one for the physical design the other for the electrical design.
+
+https://imgur.com/a/Da5zVb2
+
 
 ## Design Misc
 
