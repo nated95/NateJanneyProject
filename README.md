@@ -27,7 +27,9 @@ strengthen my python skills, create a full embedded system and combine different
 Design Block Diagrams + Descriptions
 Link for two diagrams one for the physical design the other for the electrical design.
 
-https://imgur.com/a/Da5zVb2
+![Alt](1.png)
+![Alt](2.png)
+
 
 
 ## Design Misc
